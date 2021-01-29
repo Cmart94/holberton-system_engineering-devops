@@ -1,2 +1,2 @@
 #!/bin/bash
-nose
+chmod -R a+X ./
