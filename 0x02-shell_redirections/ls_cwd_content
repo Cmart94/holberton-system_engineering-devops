@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 2 vagrant vagrant 4096 Feb  2 18:37 .
+drwxrwxr-x 7 vagrant vagrant 4096 Feb  2 04:10 ..
+-rwxrw-r-- 1 vagrant vagrant   32 Feb  2 04:21 0-hello_world
+-rw-rw-r-- 1 vagrant vagrant   36 Feb  2 04:03 0-hello_world~
+-rwxrw-r-- 1 vagrant vagrant   36 Feb  2 18:37 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  2 18:39 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant   45 Feb  2 04:01 READEME.md
